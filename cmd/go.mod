@@ -14,19 +14,22 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/ipfs/go-ipfs-http-client v0.4.0
 	github.com/ipfs/interface-go-ipfs-core v0.7.0
-	github.com/klauspost/compress v1.15.12
+	github.com/klauspost/compress v1.16.7
+	github.com/kr/pretty v0.3.1 // indirect
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0-rc4
 	github.com/opencontainers/runtime-spec v1.0.3-0.20210326190908-1c3f411f0417
 	github.com/pelletier/go-toml v1.9.5
 	github.com/rs/xid v1.4.0
 	github.com/sirupsen/logrus v1.9.0
+	github.com/stretchr/testify v1.8.2 // indirect
 	github.com/urfave/cli v1.22.5
 	go.etcd.io/bbolt v1.3.7
-	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
-	golang.org/x/sys v0.4.0
-	google.golang.org/grpc v1.50.1
-	k8s.io/cri-api v0.26.0-alpha.3
+	golang.org/x/net v0.12.0 // indirect
+	golang.org/x/sync v0.3.0
+	golang.org/x/sys v0.10.0
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20230525234030-28d5490b6b19 // indirect
+	google.golang.org/grpc v1.54.0
 )
 
 replace (
