@@ -15,7 +15,8 @@ require (
 	github.com/hanwen/go-fuse/v2 v2.1.1-0.20220112183258-f57e95bda82d
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/hashicorp/go-retryablehttp v0.7.1
-	github.com/klauspost/compress v1.15.12
+	github.com/klauspost/compress v1.16.7
+	github.com/kr/pretty v0.3.1 // indirect
 	github.com/moby/sys/mountinfo v0.6.2
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0-rc4
@@ -24,13 +25,15 @@ require (
 	github.com/prometheus/client_golang v1.14.0
 	github.com/rs/xid v1.4.0
 	github.com/sirupsen/logrus v1.9.0
-	golang.org/x/sync v0.1.0
-	golang.org/x/sys v0.6.0
-	google.golang.org/grpc v1.50.1
+	github.com/stretchr/testify v1.8.2 // indirect
+	golang.org/x/net v0.12.0 // indirect
+	golang.org/x/sync v0.3.0
+	golang.org/x/sys v0.10.0
+	google.golang.org/genproto/googleapis/rpc v0.0.0-20230525234030-28d5490b6b19 // indirect
+	google.golang.org/grpc v1.54.0
 	k8s.io/api v0.27.4
 	k8s.io/apimachinery v0.27.4
 	k8s.io/client-go v0.27.4
-	k8s.io/cri-api v0.26.0-alpha.3
 )
 
 replace (
