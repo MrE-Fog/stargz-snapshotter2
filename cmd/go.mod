@@ -21,7 +21,7 @@ require (
 	github.com/opencontainers/runtime-spec v1.1.0-rc.1
 	github.com/pelletier/go-toml v1.9.5
 	github.com/rs/xid v1.4.0
-	github.com/sirupsen/logrus v1.9.0
+	github.com/sirupsen/logrus v1.9.3
 	github.com/urfave/cli v1.22.12
 	go.etcd.io/bbolt v1.3.7
 	golang.org/x/net v0.12.0 // indirect
