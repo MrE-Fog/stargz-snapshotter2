@@ -6,7 +6,7 @@ require (
 	github.com/containerd/containerd v1.6.10
 	github.com/ipfs/go-cid v0.3.2
 	github.com/ipfs/go-ipfs-files v0.3.0
-	github.com/ipfs/interface-go-ipfs-core v0.7.0
+	github.com/ipfs/interface-go-ipfs-core v0.11.2
 	github.com/ipld/go-codec-dagpb v1.3.2 // indirect
 	github.com/opencontainers/image-spec v1.0.3-0.20211202183452-c5a74bcca799
 )
