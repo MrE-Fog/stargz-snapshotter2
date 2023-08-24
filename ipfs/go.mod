@@ -3,7 +3,7 @@ module github.com/containerd/stargz-snapshotter/ipfs
 go 1.16
 
 require (
-	github.com/containerd/containerd v1.7.3
+	github.com/containerd/containerd v1.7.4
 	github.com/ipfs/go-cid v0.4.1
 	github.com/ipfs/go-ipfs-files v0.3.0
 	github.com/ipfs/interface-go-ipfs-core v0.11.2
