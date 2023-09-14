@@ -8,7 +8,7 @@ require (
 	github.com/ipfs/go-ipfs-files v0.3.0
 	github.com/ipfs/interface-go-ipfs-core v0.11.2
 	github.com/ipld/go-codec-dagpb v1.3.2 // indirect
-	github.com/opencontainers/image-spec v1.1.0-rc4
+	github.com/opencontainers/image-spec v1.1.0-rc5
 )
 
 // Temporary fork for avoiding importing patent-protected code: https://github.com/hashicorp/golang-lru/issues/73
