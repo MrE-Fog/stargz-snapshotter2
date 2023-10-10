@@ -3,7 +3,7 @@ module github.com/containerd/stargz-snapshotter/cmd
 go 1.16
 
 require (
-	github.com/containerd/containerd v1.7.3
+	github.com/containerd/containerd v1.7.7
 	github.com/containerd/go-cni v1.1.9
 	github.com/containerd/stargz-snapshotter v0.13.0
 	github.com/containerd/stargz-snapshotter/estargz v0.14.3
@@ -23,7 +23,6 @@ require (
 	github.com/sirupsen/logrus v1.9.3
 	github.com/urfave/cli v1.22.14
 	go.etcd.io/bbolt v1.3.7
-	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/sync v0.3.0
 	golang.org/x/sys v0.11.0
 	google.golang.org/grpc v1.57.0
