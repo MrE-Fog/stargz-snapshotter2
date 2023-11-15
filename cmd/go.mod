@@ -14,7 +14,7 @@ require (
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/ipfs/go-ipfs-http-client v0.7.0
 	github.com/ipfs/interface-go-ipfs-core v0.11.2
-	github.com/klauspost/compress v1.16.7
+	github.com/klauspost/compress v1.17.3
 	github.com/opencontainers/go-digest v1.0.0
 	github.com/opencontainers/image-spec v1.1.0-rc4
 	github.com/opencontainers/runtime-spec v1.1.0
